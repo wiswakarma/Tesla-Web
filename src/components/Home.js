@@ -38,7 +38,6 @@ function Home() {
             description="Order Online for Touchless Delivery"
             backgroundImg="solar-panel.jpg"
             leftBtnText="Custom Order"
-            rightBtnText="Existing Inventory"
         />
     </Container>
   )
