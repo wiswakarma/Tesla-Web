@@ -1,1 +1,1 @@
-React JS - Tesla Web
+Tesla Web (React JS, Redux, Styled Component)

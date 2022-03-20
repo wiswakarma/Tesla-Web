@@ -29,7 +29,7 @@ function Header() {
             <BurgerNav showBurger={burgerStatus}>
                 <CloseWrapper onClick={() => setBurgerStatus(!burgerStatus)}><CustomClose /></CloseWrapper>
                 {cars.map((car, index) => (
-                    <li key={index}><a href="">{car}</a></li>
+                    <li key={index}><a href="/">{car}</a></li>
                 ))}
                 
             </BurgerNav>
